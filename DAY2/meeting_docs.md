@@ -7,6 +7,8 @@
 
 >I first verified the supported log categories for both Linux and Windows apps to avoid deployment issues.
 
+> After that I implemented the standard diag-helios-dev configuration with FunctionAppLogs and AllMetrics, sending the data to the appropriate Log Analytics workspaces.
+
 > Then I tested the configuration on one Function App as a pilot and confirmed that the logs were successfully routed to helios-dev-logs.
 
 >After that, I rolled out the same configuration to the remaining 9 Function apps. And I verified everything against the live Azure Monitor configuration, and the coverage is now 10 out of 10, and all are worked properly.
