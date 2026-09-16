@@ -3,7 +3,7 @@
 
 >Yesterday, I completed and verified ADO Ticket #29303, which is related to configure Diagnostic Settings across all 10 DEV Function Apps.
 
-> previously it was covering  0 out of 10, so platform and host logs was not being sent to Log Analytics.
+> previously it was covering  0 out of 10, so platform and host logs was not sent to Log Analytics.
 
 >First I verified the supported log categories for both Linux and Windows apps to avoid deployment issues.
 
