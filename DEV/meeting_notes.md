@@ -1,6 +1,6 @@
 # OPENINGS
 ---
-> I worked on  AB#28965  Promotion Gate Concurrency . All the earlier dependencies are now resolved. PR#314 and PR 321  "superseded-guard"  both merged into main.
+> I worked on  AB#28965  Promotion Gate Concurrency . All the earlier dependencies are now resolved. PR#314 and PR 321 "superseded-guard" created by contantin and both merged into main.
 
 >Constantin opened PR 333 for AB#28896, which addresses the same concurrency issue.Based on Sam’s guidance, we decided to use PR#333 instead of creating a duplicate implementation.
 
