@@ -1,5 +1,5 @@
 # OPENINGS
-> Hi everyone, update on the Azure Functions SRE implementation:
+> I worked on the Azure Functions SRE implementation:
 
 >Yesterday, I completed and verified ADO Ticket #29303, which is related to configure Diagnostic Settings across all 10 DEV Function Apps.
 
