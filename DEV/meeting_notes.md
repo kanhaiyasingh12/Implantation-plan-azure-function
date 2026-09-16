@@ -1,12 +1,12 @@
 # OPENINGS
 ---
-> update on Promotion Gate Concurrency – AB#28965. All the earlier dependencies are now resolved. PR#314 and Constantin’s superseded-guard PR 321 are both merged into main.
+> I worked on  AB#28965  Promotion Gate Concurrency . All the earlier dependencies are now resolved. PR#314 and Constantin’s "superseded-guard" PR 321  both merged into main.
 
 >Constantin opened PR 333 for AB#28896, which addresses the same concurrency issue.Based on Sam’s guidance, we decided to use PR#333 instead of creating a duplicate implementation.
 
->I completed a review of PR#333. The release-unit concurrency grouping and repo-wide GitOps lock look good.
+>I completed a review of PR#333. The release-unit 'concurrency grouping' and repo-wide GitOps-lock looks good.
 
->Constantin will address these points and merge PR#333. Once that is merged, I can close AB#28965 since the issue will be covered by PR#333.
+>Constantin will address these points and merge PR#333. Once that PR is merged, I can close AB#28965 since the issue will be covered by PR#333.
 
 ---
 # For Founday models
