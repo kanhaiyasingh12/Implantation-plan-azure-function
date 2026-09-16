@@ -15,6 +15,8 @@
 
 > I also did a live portal verification and confirmed that actual Function App logs are being ingested into Log Analytics.
 
+> So  Gap 3 is now resolved.Next, I’m moving on to #29310 for inbound access restrictions and #29305 for the Durable Orchestrator failure alert.
+
 ---
 # For Foundary Model
 >I completed the Foundry Models PROD Discovery Report and added the ADO Wiki.
