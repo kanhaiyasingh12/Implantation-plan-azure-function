@@ -2,7 +2,7 @@
 ---
 > I worked on  AB#28965  Promotion Gate Concurrency . All the earlier dependencies are now resolved. PR#314 and PR 321 "superseded-guard" created by contantin and both merged into main.
 
->Constantin opened PR 333 for AB#28896, which addresses the same concurrency issue.Based on Sam’s guidance, we decided to use PR#333 instead of creating a duplicate implementation.
+>As well Constantin opened PR 333 for ticket AB#28896, which addresses the same concurrency issue.Based on Sam’s guidance, Me, sam and constantin decided to use PR#333 instead of AB#28965 .
 
 >I completed a review of PR#333. The release-unit 'concurrency grouping' and repo-wide GitOps-lock looks good.
 
