@@ -28,7 +28,7 @@
 
 >We confirmed that AlwaysOn and outbound VNet are not required in DEV, because the current Y1 Consumption setup matches the PROD architecture and avoids unnecessary cost.
 
->Today i workinf=g on task #29303, where I’m implementing Diagnostic Settings across all 10 Function Apps.
+>Today i will work on task #29303, where I’m  going to implementing Diagnostic Settings across all 10 Function Apps.
 
 >Thats all form my side Thankyou
 
