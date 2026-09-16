@@ -13,6 +13,8 @@
 
 >After that, I rolled out the same configuration to the remaining 9 Function apps. And I verified everything against the live Azure Monitor configuration, and the coverage is now 10 out of 10, and all are worked properly.
 
+> I also did a live portal verification and confirmed that actual Function App logs are being ingested into Log Analytics.
+
 ---
 # For Foundary Model
 >I completed the Foundry Models PROD Discovery Report and added the ADO Wiki.
