@@ -9,7 +9,7 @@
 
 > After that I implemented the standard "diag-helios-dev" configuration with "FunctionAppLogs" and "AllMetrics", Then sending the data to the appropriate Log Analytics workspaces.
 
-> Then I tested the configuration on "1" Function App as a pilot and confirmed that the logs  successfully routed to "helios-dev-logs".
+> Then I tested the configuration on a "one" Function App as a pilot and confirmed that the logs  successfully routed to "helios-dev-logs".
 
 >After that, I rolled out the same configuration to the remaining  all 9 Function apps. And I verified everything through the live Azure Monitor configuration, and the coverage is now 10 out of 10,  all are working properly.
 
