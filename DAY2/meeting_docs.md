@@ -9,7 +9,7 @@
 
 > Then I tested the configuration on one Function App as a pilot and confirmed that the logs were successfully routed to helios-dev-logs.
 
->After that, I rolled out the same configuration to the remaining 9 Function apps. And I verified everything against the live Azure Monitor configuration, and the coverage is now 10 out of 10, and all are working.
+>After that, I rolled out the same configuration to the remaining 9 Function apps. And I verified everything against the live Azure Monitor configuration, and the coverage is now 10 out of 10, and all are worked properly.
 
 ---
 # For Foundary Model
