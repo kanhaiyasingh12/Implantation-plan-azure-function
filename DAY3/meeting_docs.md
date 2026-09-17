@@ -30,4 +30,16 @@
 
 > So Ticket #29305 is now complete. Next, I’ll Working on Ticket #29310, which is for inbound access restrictions on the 5 background apps.
 ---------------------------------------------------
+---
+# For Foundary Model
+>I completed the Foundry Models PROD Discovery Report and added the ADO Wiki.
 
+>The main reliability issue is  **"ca-model-service-prod":** — it has no health probes, only one replica, and no autoscaling.
+
+>This creates a risk of downtime during crashes, deployments, or traffic spikes.
+
+>Another isuues is that the production AI Hub models are manually deployed, with no Terraform-based deployment process.
+
+
+> No blockers from my side. Thats all form my side Thankyou
+---
